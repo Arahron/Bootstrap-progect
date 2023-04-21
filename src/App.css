@@ -1,0 +1,37 @@
+.row{
+    --bs-gutter-x: 0rem;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;   
+}
+a:hover{
+   background-color: rgb(75, 150, 221);
+   border-radius: 15px;
+   transition: 0.5s;
+}
+
+
+#div1{
+    font-size: 30px;
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#divImg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#div6, #div7, #div8, #div9{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
